@@ -1,3 +1,4 @@
+[![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)]
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
