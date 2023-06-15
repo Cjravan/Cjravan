@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/MVCL.gif)]
+[![MasterHead](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIzN2NjNzE5OTIyYjhhYTI2ZTJiYTE1ZjA0ZTUwNGFiNWRjZjI4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/usXZmmgP9Z7kf39fnq/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
