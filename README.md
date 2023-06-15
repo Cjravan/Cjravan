@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" width=400 alt="coding" src="C:\Users\Harshit\Downloads\68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f">
-
+<img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjravan&label=Profile%20views&color=0e75b6&style=flat" alt="cjravan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@harshit84919561" target="blank"><img src="https://img.shields.io/twitter/follow/@harshit84919561?logo=twitter&style=for-the-badge" alt="@harshit84919561" /></a> </p>
