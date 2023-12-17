@@ -1,18 +1,18 @@
 [![MasterHead](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)]]
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Front End Developer & Data Analyst</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjravan&label=Profile%20views&color=0e75b6&style=flat" alt="cjravan" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@harshit84919561" target="blank"><img src="https://img.shields.io/twitter/follow/@harshit84919561?logo=twitter&style=for-the-badge" alt="@harshit84919561" /></a> </p>
 
-- 🔭 I’m currently working on **App based project(Capstone Project)**
+- 🔭 I’m currently working on **App based project**
 
-- 🌱 I’m currently learning **Big Data, Hadoop, Linux and Cloud Servers**
+- 🌱 I’m currently learning **Big Data, Linux, ReactJS, AngularJS, and Cloud Servers**
 
 - 👯 I’m looking to collaborate on **exploring new programming languages**
 
-- 💬 Ask me about **Python Programming, Machine Learning, MYSQL**
+- 💬 Ask me about **Python Programming, Machine Learning, MYSQL, HTML, CSS, JS**
 
 - 📫 How to reach me **vermaharshit998@gmail.com**
 
