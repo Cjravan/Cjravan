@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)]]
+[![MasterHead](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)]]
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
 <h3 align="center">A passionate Front End Developer & Data Analyst</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
