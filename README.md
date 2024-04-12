@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif)
 <h1 align="center">Hi 👋, I'm Harshit Verma</h1>
-<h3 align="center">A passionate Front End Developer & Data Analyst</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <img align="right" width=400 alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cjravan&label=Profile%20views&color=0e75b6&style=flat" alt="cjravan" /> </p>
 
